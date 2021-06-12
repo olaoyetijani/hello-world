@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GiftHub
+My first repository on GitHub
